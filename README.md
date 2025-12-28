@@ -1,0 +1,2 @@
+# BloodApp
+detect blood group
