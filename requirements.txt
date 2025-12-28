@@ -3,3 +3,6 @@ tensorflow
 numpy
 pillow
 tensorflow-cpu
+scikit-learn
+matplotlib
+opencv-python
